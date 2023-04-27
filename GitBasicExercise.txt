@@ -1,0 +1,16 @@
+1. mkdir learn_git_again
+2. cd learn_git_again
+3. Touch third.txt
+4. git init
+5. git add third.txt
+6. git commit -m "adding third.txt"
+7. git log
+8. Touch fourth.txt
+9. Git add fourth.txt
+10. Git commit -m "adding fourth.txt"
+11. rm third.txt
+12. Git add third.txt
+13. Git commit -m "removing third.txt"
+14. Git log 
+15. Core.pager=cat (git config --global core.pager "cat"
+16. Git config --global (git config --global --list)
