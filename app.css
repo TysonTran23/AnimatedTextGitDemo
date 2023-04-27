@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: black;
+    background: rgb(20,20,54);
 }
 
 h1 {
@@ -14,3 +14,4 @@ h1 {
 .letter {
     transition: color 1000ms;
 }
+
