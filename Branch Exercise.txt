@@ -1,0 +1,6 @@
+Part 1
+1. git branch "branch name" or git checkout -b
+2. Fast forward merging is when there have not been any commits on the original branch while the new branch is being worked on
+3. git checkout "branch name"
+4. git branch -d "branch name" or git branch -D "branch name"
+5. Merge conflicts occur when you create a new branch off of the main, do your changes, and than you try to merge back into main, but the main branch is now changed and not what your new branch is based off of. 
